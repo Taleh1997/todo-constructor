@@ -1,0 +1,7 @@
+.inputContainer{
+    width: 50%;
+    margin:50px auto
+}
+.input-control{
+    border: 3px solid green;
+}
